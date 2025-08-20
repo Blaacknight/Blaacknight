@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 🎓 Student at IIIT Allahabad, passionate about AI, Deep Learning, and Computer Vision.
-- 💻 500+ DSA problems solved, currently diving into real-world development.
+- 💻 700+ DSA problems solved, currently diving into real-world development.
 - 🔬 Working on model pruning, OCR pipelines, Deformable DETR, and SinSR+.
 - 🧠 Exploring Generative AI for education using Socratic teaching method + fine-tuning.
 
